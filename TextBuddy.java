@@ -20,3 +20,58 @@
   import java.util.ArrayList;
   import java.util.Collections;
   import java.util.Scanner;
+  
+  
+  public class TextBuddy {
+   public static void main(String[] args) throws IOException {
+    
+   }
+   
+   private static void checkForInvalidArguments(String[] args) {
+    
+   }
+   
+   private static File openFile(String filename) {
+    
+   }
+   
+   private static boolean isEmpty(File file) {
+    
+   }
+   
+   private static String add(String text, File file) {
+    
+   }
+   
+   private static String display(File file) {
+    
+   }
+   
+   private static String delete(String text, File file) {
+    
+   }
+   
+   private static void writeToFile(File file) {
+    
+   }
+   
+   private static String clear(File file) {
+    
+   }
+   
+   private static String sort(File file) {
+    
+   }
+   
+   private static String search(String text, File file) {
+    
+   }
+   
+   
+ } 
+  
+  
+  
+  
+  
+
